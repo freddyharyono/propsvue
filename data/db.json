@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "vue",
+            "body": "hello vue",
+            "tags": [
+                "webdev", 
+                "coding", 
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "vuejs",
+            "body": "learne vue",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
